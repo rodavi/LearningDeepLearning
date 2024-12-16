@@ -1,0 +1,200 @@
+Collecting jupyter-console==6.6.3
+  Downloading jupyter_console-6.6.3-py3-none-any.whl (24 kB)
+Collecting jupyter-client
+  Downloading jupyter_client-8.6.3-py3-none-any.whl (106 kB)
+Collecting ipykernel
+  Downloading ipykernel-6.29.5-py3-none-any.whl (117 kB)
+Collecting prompt-toolkit
+  Downloading prompt_toolkit-3.0.48-py3-none-any.whl (386 kB)
+Collecting traitlets>=5.4
+  Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
+Collecting pyzmq>=17
+  Downloading pyzmq-26.2.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (862 kB)
+Collecting jupyter-core!=5.0.*,>=4.12
+  Downloading jupyter_core-5.7.2-py3-none-any.whl (28 kB)
+Collecting pygments
+  Downloading pygments-2.18.0-py3-none-any.whl (1.2 MB)
+Collecting ipython
+  Downloading ipython-8.18.1-py3-none-any.whl (808 kB)
+Collecting importlib-metadata>=4.8.3
+  Downloading importlib_metadata-8.5.0-py3-none-any.whl (26 kB)
+Collecting tornado>=6.2
+  Downloading tornado-6.4.2-cp38-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (437 kB)
+Collecting python-dateutil>=2.8.2
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Collecting matplotlib-inline>=0.1
+  Downloading matplotlib_inline-0.1.7-py3-none-any.whl (9.9 kB)
+Collecting psutil
+  Downloading psutil-6.1.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (287 kB)
+Collecting comm>=0.1.1
+  Downloading comm-0.2.2-py3-none-any.whl (7.2 kB)
+Collecting nest-asyncio
+  Downloading nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
+Collecting packaging
+  Downloading packaging-24.2-py3-none-any.whl (65 kB)
+Collecting debugpy>=1.6.5
+  Downloading debugpy-1.8.11-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.6 MB)
+Collecting wcwidth
+  Downloading wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
+Collecting zipp>=3.20
+  Downloading zipp-3.21.0-py3-none-any.whl (9.6 kB)
+Collecting pexpect>4.3
+  Downloading pexpect-4.9.0-py2.py3-none-any.whl (63 kB)
+Collecting decorator
+  Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Collecting stack-data
+  Downloading stack_data-0.6.3-py3-none-any.whl (24 kB)
+Collecting jedi>=0.16
+  Downloading jedi-0.19.2-py2.py3-none-any.whl (1.6 MB)
+Collecting typing-extensions
+  Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Collecting exceptiongroup
+  Downloading exceptiongroup-1.2.2-py3-none-any.whl (16 kB)
+Collecting parso<0.9.0,>=0.8.4
+  Downloading parso-0.8.4-py2.py3-none-any.whl (103 kB)
+Collecting platformdirs>=2.5
+  Downloading platformdirs-4.3.6-py3-none-any.whl (18 kB)
+Collecting ptyprocess>=0.5
+  Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Collecting six>=1.5
+  Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Collecting executing>=1.2.0
+  Downloading executing-2.1.0-py2.py3-none-any.whl (25 kB)
+Collecting asttokens>=2.1.0
+  Downloading asttokens-3.0.0-py3-none-any.whl (26 kB)
+Collecting pure-eval
+  Downloading pure_eval-0.2.3-py3-none-any.whl (11 kB)
+Installing collected packages: zipp, wcwidth, traitlets, six, pure-eval, ptyprocess, platformdirs, parso, executing, asttokens, typing-extensions, tornado, stack-data, pyzmq, python-dateutil, pygments, prompt-toolkit, pexpect, matplotlib-inline, jupyter-core, jedi, importlib-metadata, exceptiongroup, decorator, psutil, packaging, nest-asyncio, jupyter-client, ipython, debugpy, comm, ipykernel, jupyter-console
+  Attempting uninstall: zipp
+    Found existing installation: zipp 3.21.0
+    Uninstalling zipp-3.21.0:
+      Successfully uninstalled zipp-3.21.0
+  Attempting uninstall: wcwidth
+    Found existing installation: wcwidth 0.2.13
+    Uninstalling wcwidth-0.2.13:
+      Successfully uninstalled wcwidth-0.2.13
+  Attempting uninstall: traitlets
+    Found existing installation: traitlets 5.14.3
+    Uninstalling traitlets-5.14.3:
+      Successfully uninstalled traitlets-5.14.3
+  Attempting uninstall: six
+    Found existing installation: six 1.17.0
+    Uninstalling six-1.17.0:
+      Successfully uninstalled six-1.17.0
+  Attempting uninstall: pure-eval
+    Found existing installation: pure-eval 0.2.3
+    Uninstalling pure-eval-0.2.3:
+      Successfully uninstalled pure-eval-0.2.3
+  Attempting uninstall: ptyprocess
+    Found existing installation: ptyprocess 0.7.0
+    Uninstalling ptyprocess-0.7.0:
+      Successfully uninstalled ptyprocess-0.7.0
+  Attempting uninstall: platformdirs
+    Found existing installation: platformdirs 4.3.6
+    Uninstalling platformdirs-4.3.6:
+      Successfully uninstalled platformdirs-4.3.6
+  Attempting uninstall: parso
+    Found existing installation: parso 0.8.4
+    Uninstalling parso-0.8.4:
+      Successfully uninstalled parso-0.8.4
+  Attempting uninstall: executing
+    Found existing installation: executing 2.1.0
+    Uninstalling executing-2.1.0:
+      Successfully uninstalled executing-2.1.0
+  Attempting uninstall: asttokens
+    Found existing installation: asttokens 3.0.0
+    Uninstalling asttokens-3.0.0:
+      Successfully uninstalled asttokens-3.0.0
+  Attempting uninstall: typing-extensions
+    Found existing installation: typing-extensions 4.12.2
+    Uninstalling typing-extensions-4.12.2:
+      Successfully uninstalled typing-extensions-4.12.2
+  Attempting uninstall: tornado
+    Found existing installation: tornado 6.4.2
+    Uninstalling tornado-6.4.2:
+      Successfully uninstalled tornado-6.4.2
+  Attempting uninstall: stack-data
+    Found existing installation: stack-data 0.6.3
+    Uninstalling stack-data-0.6.3:
+      Successfully uninstalled stack-data-0.6.3
+  Attempting uninstall: pyzmq
+    Found existing installation: pyzmq 26.2.0
+    Uninstalling pyzmq-26.2.0:
+      Successfully uninstalled pyzmq-26.2.0
+  Attempting uninstall: python-dateutil
+    Found existing installation: python-dateutil 2.9.0.post0
+    Uninstalling python-dateutil-2.9.0.post0:
+      Successfully uninstalled python-dateutil-2.9.0.post0
+  Attempting uninstall: pygments
+    Found existing installation: pygments 2.18.0
+    Uninstalling pygments-2.18.0:
+      Successfully uninstalled pygments-2.18.0
+  Attempting uninstall: prompt-toolkit
+    Found existing installation: prompt-toolkit 3.0.48
+    Uninstalling prompt-toolkit-3.0.48:
+      Successfully uninstalled prompt-toolkit-3.0.48
+  Attempting uninstall: pexpect
+    Found existing installation: pexpect 4.9.0
+    Uninstalling pexpect-4.9.0:
+      Successfully uninstalled pexpect-4.9.0
+  Attempting uninstall: matplotlib-inline
+    Found existing installation: matplotlib-inline 0.1.7
+    Uninstalling matplotlib-inline-0.1.7:
+      Successfully uninstalled matplotlib-inline-0.1.7
+  Attempting uninstall: jupyter-core
+    Found existing installation: jupyter-core 5.7.2
+    Uninstalling jupyter-core-5.7.2:
+      Successfully uninstalled jupyter-core-5.7.2
+  Attempting uninstall: jedi
+    Found existing installation: jedi 0.19.2
+    Uninstalling jedi-0.19.2:
+      Successfully uninstalled jedi-0.19.2
+  Attempting uninstall: importlib-metadata
+    Found existing installation: importlib-metadata 8.5.0
+    Uninstalling importlib-metadata-8.5.0:
+      Successfully uninstalled importlib-metadata-8.5.0
+  Attempting uninstall: exceptiongroup
+    Found existing installation: exceptiongroup 1.2.2
+    Uninstalling exceptiongroup-1.2.2:
+      Successfully uninstalled exceptiongroup-1.2.2
+  Attempting uninstall: decorator
+    Found existing installation: decorator 5.1.1
+    Uninstalling decorator-5.1.1:
+      Successfully uninstalled decorator-5.1.1
+  Attempting uninstall: psutil
+    Found existing installation: psutil 6.1.0
+    Uninstalling psutil-6.1.0:
+      Successfully uninstalled psutil-6.1.0
+  Attempting uninstall: packaging
+    Found existing installation: packaging 24.2
+    Uninstalling packaging-24.2:
+      Successfully uninstalled packaging-24.2
+  Attempting uninstall: nest-asyncio
+    Found existing installation: nest-asyncio 1.6.0
+    Uninstalling nest-asyncio-1.6.0:
+      Successfully uninstalled nest-asyncio-1.6.0
+  Attempting uninstall: jupyter-client
+    Found existing installation: jupyter-client 8.6.3
+    Uninstalling jupyter-client-8.6.3:
+      Successfully uninstalled jupyter-client-8.6.3
+  Attempting uninstall: ipython
+    Found existing installation: ipython 8.18.1
+    Uninstalling ipython-8.18.1:
+      Successfully uninstalled ipython-8.18.1
+  Attempting uninstall: debugpy
+    Found existing installation: debugpy 1.8.11
+    Uninstalling debugpy-1.8.11:
+      Successfully uninstalled debugpy-1.8.11
+  Attempting uninstall: comm
+    Found existing installation: comm 0.2.2
+    Uninstalling comm-0.2.2:
+      Successfully uninstalled comm-0.2.2
+  Attempting uninstall: ipykernel
+    Found existing installation: ipykernel 6.29.5
+    Uninstalling ipykernel-6.29.5:
+      Successfully uninstalled ipykernel-6.29.5
+  Attempting uninstall: jupyter-console
+    Found existing installation: jupyter-console 6.6.3
+    Uninstalling jupyter-console-6.6.3:
+      Successfully uninstalled jupyter-console-6.6.3
+Successfully installed asttokens-3.0.0 comm-0.2.2 debugpy-1.8.11 decorator-5.1.1 exceptiongroup-1.2.2 executing-2.1.0 importlib-metadata-8.5.0 ipykernel-6.29.5 ipython-8.18.1 jedi-0.19.2 jupyter-client-8.6.3 jupyter-console-6.6.3 jupyter-core-5.7.2 matplotlib-inline-0.1.7 nest-asyncio-1.6.0 packaging-24.2 parso-0.8.4 pexpect-4.9.0 platformdirs-4.3.6 prompt-toolkit-3.0.48 psutil-6.1.0 ptyprocess-0.7.0 pure-eval-0.2.3 pygments-2.18.0 python-dateutil-2.9.0.post0 pyzmq-26.2.0 six-1.17.0 stack-data-0.6.3 tornado-6.4.2 traitlets-5.14.3 typing-extensions-4.12.2 wcwidth-0.2.13 zipp-3.21.0
